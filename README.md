@@ -1,4 +1,4 @@
-## Airline Strategic Analysis & Marketing
+## Airline Analytics for Strategic Marketing 
 *A scenario-based project with real data*
 
 ### Objective
