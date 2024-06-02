@@ -1,6 +1,8 @@
 ## Airline Analytics for Strategic Marketing 
 *A scenario-based project with real data*
 
+### Author: https://github.com/halepino
+
 ### Objective
 Sunset Air is suffering a media scare campaign. Claims of a rise in flight accidents in the media are threatening the industry. This project takes currently available data from a range of sources to perform an investigation of media claims. The findings are then presented in various audience level reports and visualizations to combat the issue. Primary tools for this project include Power BI and Power Point. This project includes the following:  
 * Internal Dashboards for the technical team
